@@ -4,7 +4,7 @@
 
 _FR:_ 
 
-Dans ce repo, que je tiendrai à jour, vous trouverez des exemples fonctions liées aux algorithmes mathématiques écrits en javascript.
+Dans ce repo, que je tiendrai à jour, vous trouverez des exemples de fonctions liées aux algorithmes mathématiques écrits en javascript.
 
 ---
 
