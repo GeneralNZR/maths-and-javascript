@@ -2,11 +2,11 @@
 
 _FR:_ 
 
-Dans ce repo, que je tiendrai à jour, vous trouverez des exemples de fonctions liées aux algorithmes mathématiques écrits en javascript.
+Ce repo est régulièrement mis à jour. Vous y trouverez des exemples de fonctions liées à des concepts mathématiques écrits en javascript.
 
 _EN:_
 
-In this repo, which I will keep updated, you will find examples of functions related to mathematical algorithms written in javascript.
+This repository is regularly updated. You will find examples of functions related to mathematical concepts written in javascript.
 
 ## Thèmes
 
