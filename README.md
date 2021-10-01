@@ -6,9 +6,14 @@ Ce repo est régulièrement mis à jour. Vous y trouverez mes exemples de foncti
 
 _EN:_
 
-This repository is regularly updated. You will find my examples of functions related to mathematical concepts written in javascript.
+This repository is regularly updated. You will find my examples of functions related to mathematical concepts written in javascript.<br><br>
+
 
 ## Thèmes
+  * **Arrays** - _Manipulation de tableaux_
+  
+    * [sousTableaux.js](/Arrays/sousTableaux.js)
+    <br><br>
 
   * **Bits** - _Manipulation de bits_
   
@@ -24,13 +29,14 @@ This repository is regularly updated. You will find my examples of functions rel
     * [sommeConsecutive.js](/Bits/sommeConsecutive.js)
     * [xor.js](/Bits/xor.js)
     * [chiffrementXor.js](/Bits/chiffrementXor.js)
+    <br><br>
     
   * **Maths** - _Algorithmique, combinatoire, ..._
   
     * [factorial.js](/Maths/factorial.js)
     * [fibonacci.js](/Maths/fibonacci.js)
     * [nPuissanceN.js](/Maths/nPuissanceN.js)
-
----
+    <br><br>
+  ---
 
 ![thumbnail](./img/thumbnail.jpg)
