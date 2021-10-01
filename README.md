@@ -23,6 +23,7 @@ This repository is regularly updated. You will find my examples of functions rel
     * [inverserBinaire.js](Bits/inverserBinaire.js)
     * [sommeConsecutive.js](/Bits/sommeConsecutive.js)
     * [xor.js](/Bits/xor.js)
+    * [chiffrementXor.js](/Bits/chiffrementXor.js)
     
   * **Maths** - _Algorithmique, combinatoire, ..._
   
