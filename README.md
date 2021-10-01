@@ -19,11 +19,13 @@ This repository is regularly updated. You will find my examples of functions rel
     * [getbit.js](/Bits/getbit.js)
     * [longueurBit.js](/Bits/longueurBit.js)
     * [puissanceDeDeux.js](/Bits/puissanceDeDeux.js)
+    * [entierEnBinaire.js](Bits/entierEnBinaire.js)
     
   * **Maths** - _Algorithmique, combinatoire, ..._
   
     * [factorial.js](/Maths/factorial.js)
     * [fibonacci.js](/Maths/fibonacci.js)
+    * [nPuissanceN.js](/Maths/nPuissanceN.js)
 
 ---
 
