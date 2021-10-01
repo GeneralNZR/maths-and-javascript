@@ -33,7 +33,7 @@ This repository is regularly updated. You will find my examples of functions rel
     
   * **Maths** - _Algorithmique, combinatoire, ..._
   
-    * [factorial.js](/Maths/factorial.js)
+    * [factorielle.js](/Maths/factorielle.js)
     * [fibonacci.js](/Maths/fibonacci.js)
     * [nPuissanceN.js](/Maths/nPuissanceN.js)
     <br><br>
