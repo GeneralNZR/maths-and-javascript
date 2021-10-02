@@ -28,8 +28,8 @@ This repository is regularly updated. You will find my examples of functions rel
     * [entierEnBinaire.js](Bits/entierEnBinaire.js)
     * [inverserBinaire.js](Bits/inverserBinaire.js)
     * [sommeConsecutive.js](/Bits/sommeConsecutive.js)
-    * [xor.js](/Bits/xor.js)
-    * [chiffrementXor.js](/Bits/chiffrementXor.js)
+    * [permutationXOR.js](/Bits/permutationXOR.js)
+    * [chiffrementXOR.js](/Bits/chiffrementXOR.js)
     <br><br>
     
   * **Maths** - _Algorithmique, combinatoire, ..._

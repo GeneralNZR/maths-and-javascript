@@ -4,7 +4,7 @@
  * @param {string} str2 - Texte à chiffrer
  * @returns {string} result - Texte chiffré
  */
-const chiffrementXor = (str1, str2) => {
+const chiffrementXOR = (str1, str2) => {
 	let result = '';
 	const strMin = Math.min(str1.length, str2.length);
 	const strToHex = str => parseInt(str,16);
@@ -18,8 +18,8 @@ const chiffrementXor = (str1, str2) => {
 }
 
 // Test 
-console.log(chiffrementXor('abcdef', '0123456789')); // aaeeaa
-console.log(chiffrementXor('9344637f8475f2d', 'f954fb6942026a4ea')); // 6a109816c677989
+console.log(chiffrementXOR('abcdef', '0123456789')); // aaeeaa
+console.log(chiffrementXOR('9344637f8475f2d', 'f954fb6942026a4ea')); // 6a109816c677989
 
 /*
 Le codage est effectué par une opération XOR sur deux chaînes de caractères données. 

@@ -6,10 +6,10 @@
  * @param {number} y - Second nombre
  * @returns {Array} Tableau contenant les deux nombres
  */
-const xor = (x, y) => [x ^ x ^ y, y ^ y ^ x];
+const permutationXOR = (x, y) => [x ^ x ^ y, y ^ y ^ x];
 
 // Test
-console.log(xor(0, 1)); // [1, 0]
+console.log(permutationXOR(0, 1)); // [1, 0]
 
 /* ------------------- 
  │ x   │ y   │ x ^ y │
