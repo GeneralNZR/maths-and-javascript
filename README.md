@@ -12,6 +12,7 @@ This repository is regularly updated. You will find my examples of functions rel
 ## Thèmes
   * **Arrays** - _Manipulation de tableaux_
   
+    * [isolerElements.js](/Arrays/isolerElements.js)
     * [sousTableaux.js](/Arrays/sousTableaux.js)
     <br><br>
 
