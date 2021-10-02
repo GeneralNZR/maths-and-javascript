@@ -22,12 +22,12 @@ const iFactorielle = int => {
 
 // Test de rapidité pour les deux méthodes
 
-// méthode récursive pour n = 100:  8ms
+// méthode récursive pour n = 100:  3.5ms
 console.time('rFactorielle');
 console.log(rFactorielle(100));
 console.timeEnd('rFactorielle');
 
-// méthode itérative pour n = 100:  0.3ms
+// méthode itérative pour n = 100:  0.08ms
 console.time('iFactorielle');
 console.log(iFactorielle(100));
 console.timeEnd('iFactorielle');

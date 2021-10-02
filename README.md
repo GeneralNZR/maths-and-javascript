@@ -14,6 +14,7 @@ This repository is regularly updated. You will find my examples of functions rel
   
     * [clonerTableau.js](/Arrays/clonerTableau.js)  
     * [isolerElements.js](/Arrays/isolerElements.js)
+    * [mesureProfondeur.js](Arrays/mesureProfondeur.js)
     * [sousTableaux.js](/Arrays/sousTableaux.js)
     * [tableauDeMultiples.js](/Arrays/tableauDeMultiples.js)
     <br><br>
