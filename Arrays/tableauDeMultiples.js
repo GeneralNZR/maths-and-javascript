@@ -4,7 +4,8 @@
  * @param {number} length - La limite.
  * @returns {number[]} Les multiples.
  */
- const tableauDeMultiples = (int, length) => [...Array(length)].map((_, i) => -~i * int);
+const tableauDeMultiples = (int, length) =>
+  [...Array(length)].map((_, i) => -~i * int);
 
 // const tableauDeMultiples = (int, length) => Array.from({ length }, (_, i) => -~i * int); est une autre possibilité intéréssante.
 

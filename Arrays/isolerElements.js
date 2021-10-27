@@ -13,11 +13,13 @@ const isolerElements = (arr, sub, e) => {
       i--;
     }
   }
-    return [arr, sub];
-}
+  return [arr, sub];
+};
 
 // Test
-console.log(isolerElements([0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1], [], 1));
+console.log(
+  isolerElements([0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1], [], 1)
+);
 
 /*
 [

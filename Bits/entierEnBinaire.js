@@ -3,9 +3,9 @@
  * @param {number} int - Nombre à convertir.
  * @return {string} Le nombre converti en binaire.
  */
-const entierEnBinaire = int => (int >>> 0).toString(2);
+const entierEnBinaire = (int) => (int >>> 0).toString(2);
 
-// Test 
+// Test
 console.log(entierEnBinaire(5)); // 101
 console.log(entierEnBinaire(-5)); // 11111111111111111111111111111011
 

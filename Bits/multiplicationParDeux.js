@@ -3,7 +3,7 @@
  * @param {number} int - Nombre à multiplier par deux.
  * @return {number} Nombre multiplié par deux.
  */
-const multiplicationParDeux = int => int << 1;
+const multiplicationParDeux = (int) => int << 1;
 
 // Test
 console.log(multiplicationParDeux(5)); // 10

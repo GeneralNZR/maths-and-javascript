@@ -3,7 +3,7 @@
  * @param {number} int - Nombre à vérifier
  * @returns {boolean} - True si le nombre est un puissance de deux, false sinon
  */
-const estPuissanceDeDeux = int => (int & (int - 1)) === 0;
+const estPuissanceDeDeux = (int) => (int & (int - 1)) === 0;
 
 // Test
 console.log(estPuissanceDeDeux(8)); // true

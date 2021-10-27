@@ -37,9 +37,12 @@ This repository is regularly updated. You will find my examples of functions rel
     
   * **Maths** - _Algorithmique, combinatoire, ..._
   
+    * [aires.js](/Maths/aires.js)
     * [factorielle.js](/Maths/factorielle.js)
     * [fibonacci.js](/Maths/fibonacci.js)
+    * [moyenne.js](/Maths/moyenne.js)
     * [nPuissanceN.js](/Maths/nPuissanceN.js)
+    * [valeurAbsolue.js](/Maths/valeurAbsolue.js)
     <br><br>
   ---
 

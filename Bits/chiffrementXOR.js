@@ -5,21 +5,20 @@
  * @returns {string} result - Texte chiffré
  */
 const chiffrementXOR = (str1, str2) => {
-	let result = '';
-	const strMin = Math.min(str1.length, str2.length);
-	const strToHex = str => parseInt(str,16);
-	for (i=0; i<strMin; i++) {
-		result += (strToHex(str1[i]) ^ strToHex(str2[i])).toString(16);
-        // console.log(str1[i],strToHex(str1[i]));
-        console.log(str2[i],strToHex(str2[i]));
-        
-	}
-	return result;
-}
+  let result = "";
+  const strMin = Math.min(str1.length, str2.length);
+  const strToHex = (str) => parseInt(str, 16);
+  for (i = 0; i < strMin; i++) {
+    result += (strToHex(str1[i]) ^ strToHex(str2[i])).toString(16);
+    // console.log(str1[i],strToHex(str1[i]));
+    console.log(str2[i], strToHex(str2[i]));
+  }
+  return result;
+};
 
-// Test 
-console.log(chiffrementXOR('abcdef', '0123456789')); // aaeeaa
-console.log(chiffrementXOR('9344637f8475f2d', 'f954fb6942026a4ea')); // 6a109816c677989
+// Test
+console.log(chiffrementXOR("abcdef", "0123456789")); // aaeeaa
+console.log(chiffrementXOR("9344637f8475f2d", "f954fb6942026a4ea")); // 6a109816c677989
 
 /*
 Le codage est effectué par une opération XOR sur deux chaînes de caractères données. 

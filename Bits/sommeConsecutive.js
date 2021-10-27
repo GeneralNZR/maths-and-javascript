@@ -3,7 +3,7 @@
  * @param {number} int - Le nombre à tester.
  * @returns {boolean} - True si le nombre peut être exprimé en somme de deux ou plusieurs nombres entiers positifs consecutifs, false sinon.
  */
-const sommeConsecutive = int => !!(int & (int - 1));
+const sommeConsecutive = (int) => !!(int & (int - 1));
 
 // Test
 console.log(sommeConsecutive(10)); // true, car 10 = 1 + 9

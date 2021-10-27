@@ -3,7 +3,7 @@
  * @param {number} int - Nombre à diviser par deux.
  * @return {number} Nombre divisé par deux.
  */
-const divisionParDeux = int => int >> 1;
+const divisionParDeux = (int) => int >> 1;
 
 // Test
 console.log(divisionParDeux(10)); // 5

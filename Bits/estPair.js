@@ -3,7 +3,7 @@
  * @param {number} int - Nombre a vérifier
  * @return {boolean} True si pair, false sinon
  */
-const estPair = int => (int & 1) === 0;
+const estPair = (int) => (int & 1) === 0;
 
 // Test
 console.log(estPair(6)); // true

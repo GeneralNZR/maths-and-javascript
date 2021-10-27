@@ -3,7 +3,7 @@
  * @param {number} int - Nombre a vérifier
  * @return {boolean} True si pair, false sinon
  */
-const estPositif = int => int >> 31 === 0;
+const estPositif = (int) => int >> 31 === 0;
 
 // Test
 console.log(estPositif(1)); // true

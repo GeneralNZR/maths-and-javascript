@@ -1,5 +1,5 @@
 /**
- * Algorithme pour échanger les valeurs de deux variables 
+ * Algorithme pour échanger les valeurs de deux variables
  * sans utiliser la variable temporaire qui est normalement requise
  * avec l'opérateur " ^ " OU exclusif (XOR).
  * @param {number} x - Premier nombre
