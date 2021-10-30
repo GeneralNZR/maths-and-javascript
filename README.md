@@ -12,7 +12,7 @@ It is regularly updated.<br><br>
 
 
 ## Thèmes
-  * **Arrays** - _Manipulation de tableaux_
+  * **[Arrays](/Arrays)** - _Manipulation de tableaux_
   
     * [clonerTableau.js](/Arrays/clonerTableau.js)  
     * [isolerElements.js](/Arrays/isolerElements.js)
@@ -21,7 +21,7 @@ It is regularly updated.<br><br>
     * [tableauDeMultiples.js](/Arrays/tableauDeMultiples.js)
     <br><br>
 
-  * **Bits** - _Manipulation de bits_
+  * **[Bits](/Bits)** - _Manipulation de bits_
 
     * [chiffrementXOR.js](/Bits/chiffrementXOR.js)
     * [divisionParDeux.js](/Bits/divisionParDeux.js)
@@ -37,7 +37,7 @@ It is regularly updated.<br><br>
     * [sommeConsecutive.js](/Bits/sommeConsecutive.js)
     <br><br>
     
-  * **Maths** - _Algorithmique, combinatoire, ..._
+  * **[Maths](/Maths)** - _Algorithmique, combinatoire, ..._
   
     * [aires.js](/Maths/aires.js)
     * [degRad.js](/Maths/degRad.js)
