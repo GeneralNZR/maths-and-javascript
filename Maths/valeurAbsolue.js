@@ -3,12 +3,7 @@
  * @param {number} n - Nombre à trouver la valeur absolue
  * @returns {number} Valeur absolue du nombre
  */
-const valeurAbsolue = (n) => {
-  if (int < 0) {
-    return -n;
-  }
-  return n;
-};
+const valeurAbsolue = (n) => (n < 0) ? -n : n;
 
 // Test
 console.log(valeurAbsolue(-1)); // 1

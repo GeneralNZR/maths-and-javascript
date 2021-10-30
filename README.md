@@ -45,6 +45,7 @@ This repository is regularly updated. You will find my examples of functions rel
     * [moyenne.js](/Maths/moyenne.js)
     * [nPuissanceN.js](/Maths/nPuissanceN.js)
     * [partieDecimale.js](/Maths/partieDecimale.js)
+    * [sommeChiffres.js](/Maths/sommeChiffres.js)
     * [valeurAbsolue.js](/Maths/valeurAbsolue.js)
     <br><br>
   ---

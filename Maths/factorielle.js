@@ -1,7 +1,7 @@
 /**
  * @description La factorielle d'un entier n est le produit des nombres de 1 à n.
  * Méthode récursive.
- * @param {number} int
+ * @param {number} int - nombre entier
  * @returns {number} factorielle de int
  */
 const rFactorielle = (int) => (int <= 1 ? 1 : int * rFactorielle(int - 1));
@@ -9,7 +9,7 @@ const rFactorielle = (int) => (int <= 1 ? 1 : int * rFactorielle(int - 1));
 /**
  * @description La factorielle d'un entier n est le produit des nombres de 1 à n.
  * Méthode itérative.
- * @param {number} int
+ * @param {number} int - nombre entier
  * @returns {number} factorielle de int
  */
 const iFactorielle = (int) => {
