@@ -1,5 +1,5 @@
 /**
- * Différentes fonctions pour calculer l'aire de différentes figures
+ * Différentes fonctions de calcul de l'aire de différentes figures.
  * (sphère, cube, cylindre, cone, tore)
  * @author Noam Zeitoun
  * @version 1.0
@@ -45,9 +45,9 @@ const aireTore = (r, R) => 4 * Math.PI ** 2 * r * R;
 
 // Tests
 console.table({
-  "Aire d'une sphère de rayon égal à 3 :": aireSphère(3),
-  "Aire d'un cube de côté égal à 3 :": aireCube(3),
-  "Aire d'un cylindre de (rayon, hauteur) égal à 3 :": aireCylindre(3, 3),
-  "Aire d'un cône de (rayon, hauteur) égal à 3": aireCone(3, 3),
-  "Aire d'un tore de (rayon, rayon) égal à 3": aireTore(3, 3),
+  "aireSphère(3)": aireSphère(3),
+  "aireCube(3)": aireCube(3),
+  "aireCylindre(3, 3)": aireCylindre(3, 3),
+  "aireCone(3, 3)": aireCone(3, 3),
+  "aireTore(3, 3)": aireTore(3, 3),
 });
