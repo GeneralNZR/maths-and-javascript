@@ -1,5 +1,5 @@
 /**
- * Trouver les multiples d'un nombre entier positif jusqu'à une limite donnée.
+ * @description Trouver les multiples d'un nombre entier positif jusqu'à une limite donnée.
  * @param {number} int - Le nombre entier positif.
  * @param {number} length - La limite.
  * @returns {number[]} Les multiples.

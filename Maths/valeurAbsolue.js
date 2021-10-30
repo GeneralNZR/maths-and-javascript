@@ -1,5 +1,5 @@
 /**
- * Trouver la valeur absolue d'un nombre
+ * @description Trouver la valeur absolue d'un nombre
  * @param {number} n - Nombre à trouver la valeur absolue
  * @returns {number} Valeur absolue du nombre
  */

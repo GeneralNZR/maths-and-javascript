@@ -1,5 +1,5 @@
 /**
- * Isoler les éléments doublons d'un tableau dans un autre, sans changer l'ordre des éléments.
+ * @description Isoler les éléments doublons d'un tableau dans un autre, sans changer l'ordre des éléments.
  * @param {Array} arr - Le tableau d'origine.
  * @param {Array} sub - Le tableau dans lequel seront stockés les éléments isolés.
  * @param {Object} e - L'élément à isoler.

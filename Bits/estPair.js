@@ -1,5 +1,5 @@
 /**
- * Vérifie si un nombre est pair.
+ * @description Vérifie si un nombre est pair.
  * @param {number} int - Nombre a vérifier
  * @return {boolean} True si pair, false sinon
  */

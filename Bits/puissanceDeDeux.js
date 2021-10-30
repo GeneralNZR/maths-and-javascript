@@ -1,5 +1,5 @@
 /**
- * Vérifier si un nombre est une puissance de deux
+ * @description Vérifier si un nombre est une puissance de deux
  * @param {number} int - Nombre à vérifier
  * @returns {boolean} - True si le nombre est un puissance de deux, false sinon
  */

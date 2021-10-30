@@ -1,5 +1,5 @@
 /**
- * Renvoie une sequence de fibonacci dans un tableau.
+ * @description Renvoie une sequence de fibonacci dans un tableau.
  * @param {number} int - Le nombre de valeurs de la sequence.
  * @returns {Array} Un tableau contenant la sequence de fibonacci.
  */

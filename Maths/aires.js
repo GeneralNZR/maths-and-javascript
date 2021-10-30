@@ -6,21 +6,21 @@
  */
 
 /**
- * Calcul de l'aire d'une sphère
+ * @description Calcul de l'aire d'une sphère
  * @param {number} r - Rayon de la sphère
  * @return {number} Aire de la sphère
  */
 const aireSphère = (r) => 4 * Math.PI * r ** 2;
 
 /**
- * Calcul de l'aire d'un cube
+ * @description Calcul de l'aire d'un cube
  * @param {number} c - Côté du cube
  * @return {number} Aire du cube
  */
 const aireCube = (c) => 6 * c ** 2;
 
 /**
- * Calcul de l'aire d'un cylindre
+ * @description Calcul de l'aire d'un cylindre
  * @param {number} r - Rayon du cylindre
  * @param {number} h - Hauteur du cylindre
  * @return {number} Aire du cylindre
@@ -28,7 +28,7 @@ const aireCube = (c) => 6 * c ** 2;
 const aireCylindre = (r, h) => 2 * Math.PI * r * h + 2 * Math.PI * r ** 2;
 
 /**
- * Calcul de l'aire d'un cone
+ * @description Calcul de l'aire d'un cone
  * @param {number} r - Rayon du cone
  * @param {number} h - Hauteur du cone
  * @return {number} Aire du cone
@@ -36,7 +36,7 @@ const aireCylindre = (r, h) => 2 * Math.PI * r * h + 2 * Math.PI * r ** 2;
 const aireCone = (r, h) => Math.PI * r * (r + Math.sqrt(r ** 2 + h ** 2));
 
 /**
- * Calcul de l'aire d'un tore
+ * @description Calcul de l'aire d'un tore
  * @param {number} r - Rayon du tore
  * @param {number} R - Rayon du tube
  * @return {number} Aire du torus

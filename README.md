@@ -43,6 +43,7 @@ This repository is regularly updated. You will find my examples of functions rel
     * [fibonacci.js](/Maths/fibonacci.js)
     * [moyenne.js](/Maths/moyenne.js)
     * [nPuissanceN.js](/Maths/nPuissanceN.js)
+    * [partieDecimale.js](/Maths/partieDecimale.js)
     * [valeurAbsolue.js](/Maths/valeurAbsolue.js)
     <br><br>
   ---

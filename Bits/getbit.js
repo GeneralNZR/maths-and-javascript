@@ -1,5 +1,5 @@
 /**
- * Récupère un bit d'un nombre selon un index
+ * @description Récupère un bit d'un nombre selon un index
  * @param {number} number
  * @param {number} position - basé sur 0.
  * @return {number} 0 ou 1

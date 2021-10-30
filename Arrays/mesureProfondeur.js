@@ -1,5 +1,5 @@
 /**
- * Permet de mesurer la profondeur d'un tableau.
+ * @description Permet de mesurer la profondeur d'un tableau.
  * [] => 1, [[]] => 2, [[[]]] => 3, [[[[]]]] => 4, etc.
  * Méthode récursive.
  * @param {Array} arr - Le tableau à mesurer.
@@ -8,7 +8,7 @@
 const mesureProfondeur = (arr) => (arr ? 1 + mesureProfondeur(arr[0]) : 0);
 
 /**
- * Permet de mesurer la profondeur d'un tableau.
+ * @description Permet de mesurer la profondeur d'un tableau.
  * [] => 1, [[]] => 2, [[[]]] => 3, [[[[]]]] => 4, etc.
  * Seconde méthode.
  * @param {Array} arr - Le tableau à mesurer.

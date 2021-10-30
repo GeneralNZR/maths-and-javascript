@@ -1,5 +1,5 @@
 /**
- * Fonction qui calcule la moyenne d'un tableau de nombres
+ * @description Fonction qui calcule la moyenne d'un tableau de nombres
  * @param {Array} arr - Tableau de nombres
  * @return {Number} Moyenne
  */

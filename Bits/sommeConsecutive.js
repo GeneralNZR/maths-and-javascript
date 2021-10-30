@@ -1,5 +1,5 @@
 /**
- * Verifie si un nombre peut être exprimé en somme de deux ou plusieurs nombres entiers positifs consecutifs.
+ * @description Verifie si un nombre peut être exprimé en somme de deux ou plusieurs nombres entiers positifs consecutifs.
  * @param {number} int - Le nombre à tester.
  * @returns {boolean} - True si le nombre peut être exprimé en somme de deux ou plusieurs nombres entiers positifs consecutifs, false sinon.
  */

@@ -1,5 +1,5 @@
 /**
- * Multiplication d'un nombre par deux.
+ * @description Multiplication d'un nombre par deux.
  * @param {number} int - Nombre à multiplier par deux.
  * @return {number} Nombre multiplié par deux.
  */

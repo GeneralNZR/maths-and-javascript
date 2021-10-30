@@ -1,5 +1,5 @@
 /**
- * Chiffrement de texte par OU exclusif (XOR)
+ * @description Chiffrement de texte par OU exclusif (XOR)
  * @param {string} str1 - Texte à chiffrer
  * @param {string} str2 - Texte à chiffrer
  * @returns {string} result - Texte chiffré

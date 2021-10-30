@@ -1,5 +1,5 @@
 /**
- * Fonction pour verifier si un nombre est n-puissance de n
+ * @description Fonction pour verifier si un nombre est n-puissance de n
  * @param {number} int - Nombre a verifier
  * @param {number} n - Entier positif n
  * @returns {boolean} True si le nombre est n-puissance de n, false sinon

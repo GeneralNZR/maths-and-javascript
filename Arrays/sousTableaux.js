@@ -1,5 +1,5 @@
 /**
- * Découper un tableau en sous-tableaux.
+ * @description Découper un tableau en sous-tableaux.
  * @param {Array} arr - Le tableau à découper.
  * @param {Number} n - Le nombre de sous-tableaux.
  * @returns {Array} - Les sous-tableaux.

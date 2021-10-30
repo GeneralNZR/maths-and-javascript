@@ -1,5 +1,5 @@
 /**
- * Conversion d'un nombre entier en binaire.
+ * @description Conversion d'un nombre entier en binaire.
  * @param {number} int - Nombre à convertir.
  * @return {string} Le nombre converti en binaire.
  */

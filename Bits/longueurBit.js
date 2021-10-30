@@ -1,5 +1,5 @@
 /**
- * Renvoie le nombre de bits utilisés dans la représentation binaire du nombre.
+ * @description Renvoie le nombre de bits utilisés dans la représentation binaire du nombre.
  * @param {number} int - Nombre à convertir.
  * @return {number} Nombre de bits utilisés.
  */

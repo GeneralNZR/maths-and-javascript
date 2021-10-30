@@ -1,5 +1,5 @@
 /**
- * Inverser la conversion binaire d'un nombre entier
+ * @description Inverser la conversion binaire d'un nombre entier
  * @param {number} int - Nombre entier à convertir en binaire, puis à inverser.
  * @return {number} Nombre binaire inversé
  */

@@ -1,5 +1,5 @@
 /**
- * Division d'un nombre par deux.
+ * @description Division d'un nombre par deux.
  * @param {number} int - Nombre à diviser par deux.
  * @return {number} Nombre divisé par deux.
  */
