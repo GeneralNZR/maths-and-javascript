@@ -38,6 +38,7 @@ This repository is regularly updated. You will find my examples of functions rel
   * **Maths** - _Algorithmique, combinatoire, ..._
   
     * [aires.js](/Maths/aires.js)
+    * [degRad.js](/Maths/degRad.js)
     * [distances.js](/Maths/distances.js)
     * [factorielle.js](/Maths/factorielle.js)
     * [fibonacci.js](/Maths/fibonacci.js)
