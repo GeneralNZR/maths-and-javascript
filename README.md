@@ -44,6 +44,7 @@ It is regularly updated.<br><br>
     * [distances.js](/Maths/distances.js)
     * [factorielle.js](/Maths/factorielle.js)
     * [fibonacci.js](/Maths/fibonacci.js)
+    * [mandelbrot.js](/Maths/mandelbrot.js)
     * [moyenne.js](/Maths/moyenne.js)
     * [nPuissanceN.js](/Maths/nPuissanceN.js)
     * [partieDecimale.js](/Maths/partieDecimale.js)
