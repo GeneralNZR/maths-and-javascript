@@ -2,11 +2,13 @@
 
 _FR:_ 
 
-Ce repo est régulièrement mis à jour. Vous y trouverez mes exemples de fonctions liées à des concepts mathématiques écrits en javascript.
+Ce repo a pour but de partager mes fonctions et mes exemples de fonctions liées à des concepts mathématiques écrits en javascript.
+Il est régulièrement mis à jour.
 
 _EN:_
 
-This repository is regularly updated. You will find my examples of functions related to mathematical concepts written in javascript.<br><br>
+This repo aims to share my functions and examples of functions related to mathematical concepts written in javascript.
+It is regularly updated.<br><br>
 
 
 ## Thèmes
