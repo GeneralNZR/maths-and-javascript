@@ -45,7 +45,7 @@ It is regularly updated.<br><br>
     * [factorielle.js](/Maths/factorielle.js)
     * [fibonacci.js](/Maths/fibonacci.js)
     * [mandelbrot.js](/Maths/mandelbrot.js)
-    * [matrices.js](/Maths/matrices.js)
+    * [matrices.js](/Maths/matrices.js) (en cours)
     * [moyenne.js](/Maths/moyenne.js)
     * [nPuissanceN.js](/Maths/nPuissanceN.js)
     * [partieDecimale.js](/Maths/partieDecimale.js)
