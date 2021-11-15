@@ -1,4 +1,3 @@
-
 def mesureProfondeur(arr: list) -> int:
     """
     Description:
@@ -19,7 +18,6 @@ def mesureProfondeur(arr: list) -> int:
         1
         >>> mesureProfondeur([[[[[[[[[[]]]]]]]]]])
         10
-
     """
     return 1 + mesureProfondeur(arr[0]) if len(arr) > 0 else 1
 
