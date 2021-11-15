@@ -25,7 +25,7 @@ It is regularly updated.<br><br>
     * chiffrementXOR - [JS](JavaScript/Bits/chiffrementXOR.js) / [Python](Python/) / [C++](CXX/)
     * divisionParDeux - [JS](JavaScript/Bits/divisionParDeux.js) / [Python](Python/Bits/divisionParDeux.py) / [C++](CXX/)
     * entierEnBinaire - [JS](JavaScript/Bits/entierEnBinaire.js) / [Python](Python/Bits/entierEnBinaire.py) / [C++](CXX/)
-    * estPair - [JS](JavaScript/Bits/estPair.js) / [Python](Python/) / [C++](CXX/)
+    * estPair - [JS](JavaScript/Bits/estPair.js) / [Python](Python/Bits/estPair.py) / [C++](CXX/)
     * estPositif - [JS](JavaScript/Bits/estPositif.js) / [Python](Python/) / [C++](CXX/)
     * getbit - [JS](JavaScript/Bits/getbit.js) / [Python](Python/) / [C++](CXX/)
     * inverserBinaire - [JS](JavaScript/Bits/inverserBinaire.js) / [Python](Python/) / [C++](CXX/)
