@@ -1,10 +1,10 @@
 /**
- * @description Récupère un bit d'un nombre selon un index
- * @param {number} int - Nombre entier
- * @param {number} position - basé sur 0.
+ * @description Récupère le i-ème bit de n.
+ * @param {number} n - Le nombre à traiter
+ * @param {number} i - L'index du bit à récupérer
  * @return {number} 0 ou 1
  */
-const getBit = (int, position) => (int >> position) & 1;
+const getBit = (n, i) => (n >> i) & 1;
 
 // Tests
 console.log(getBit(2, 0)); // 0
