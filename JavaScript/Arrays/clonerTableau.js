@@ -5,4 +5,5 @@
  */
 const clonerTableau = (arr) => [...arr, arr];
 
-console.log(clonerTableau([0, 0, 0])); // [ 0, 0, 0, [ 0, 0, 0 ] ]
+// Test
+console.log(clonerTableau([0, 0, 0])); // [ 0, 0, 0, [ 0, 0, 0 ] ]gss

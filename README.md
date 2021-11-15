@@ -10,48 +10,47 @@ _EN:_
 This repo aims to share examples of functions related to mathematical concepts written in javascript.
 It is regularly updated.<br><br>
 
-
-## Thèmes
-  * **[Arrays](/Arrays)** - _Manipulation de tableaux_
+   ## Thèmes
+  * **[Arrays](https://fr.wikipedia.org/wiki/Tableau_(structure_de_donn%C3%A9es))** - _Manipulation de tableaux_
   
-    * [clonerTableau.js](/Arrays/clonerTableau.js)  
-    * [isolerElements.js](/Arrays/isolerElements.js)
-    * [mesureProfondeur.js](Arrays/mesureProfondeur.js)
-    * [sousTableaux.js](/Arrays/sousTableaux.js)
-    * [tableauDeMultiples.js](/Arrays/tableauDeMultiples.js)
+    * clonerTableau - [JS](JavaScript/Arrays/clonerTableau.js) / [Python](Python/) / [C++](CXX/)
+    * isolerElements - [JS](JavaScript/Arrays/isolerElements.js) / [Python](Python/) / [C++](CXX/)
+    * mesureProfondeur - [JS](JavaScript/Arrays/mesureProfondeur.js) / [Python](Python/) / [C++](CXX/)
+    * sousTableaux - [JS](JavaScript/Arrays/sousTableaux.js) / [Python](Python/) / [C++](CXX/)
+    * tableauDeMultiples - [JS](JavaScript/Arrays/tableauDeMultiples.js) / [Python](Python/) / [C++](CXX/)
     <br><br>
 
-  * **[Bits](/Bits)** - _Manipulation de bits_
+  * **[Bits](https://fr.wikipedia.org/wiki/Bit)** - _Manipulation de bits_
 
-    * [chiffrementXOR.js](/Bits/chiffrementXOR.js)
-    * [divisionParDeux.js](/Bits/divisionParDeux.js)
-    * [entierEnBinaire.js](Bits/entierEnBinaire.js)
-    * [estPair.js](/Bits/estPair.js)
-    * [estPositif.js](/Bits/estPositif.js)
-    * [getbit.js](/Bits/getbit.js)
-    * [inverserBinaire.js](Bits/inverserBinaire.js)
-    * [longueurBit.js](/Bits/longueurBit.js)
-    * [multiplicationParDeux.js](/Bits/multiplicationParDeux.js)
-    * [permutationXOR.js](/Bits/permutationXOR.js)
-    * [puissanceDeDeux.js](/Bits/puissanceDeDeux.js)
-    * [sommeConsecutive.js](/Bits/sommeConsecutive.js)
+    * chiffrementXOR - [JS](JavaScript/Bits/chiffrementXOR.js) / [Python](Python/) / [C++](CXX/)
+    * divisionParDeux - [JS](JavaScript/Bits/divisionParDeux.js) / [Python](Python/) / [C++](CXX/)
+    * entierEnBinaire - [JS](JavaScript/Bits/entierEnBinaire.js) / [Python](Python/) / [C++](CXX/)
+    * estPair - [JS](JavaScript/Bits/estPair.js) / [Python](Python/) / [C++](CXX/)
+    * estPositif - [JS](JavaScript/Bits/estPositif.js) / [Python](Python/) / [C++](CXX/)
+    * getbit - [JS](JavaScript/Bits/getbit.js) / [Python](Python/) / [C++](CXX/)
+    * inverserBinaire - [JS](JavaScript/Bits/inverserBinaire.js) / [Python](Python/) / [C++](CXX/)
+    * longueurBit - [JS](JavaScript/Bits/longueurBit.js) / [Python](Python/) / [C++](CXX/)
+    * multiplicationParDeux - [JS](JavaScript/Bits/multiplicationParDeux.js) / [Python](Python/) / [C++](CXX/)
+    * permutationXOR - [JS](JavaScript/Bits/permutationXOR.js) / [Python](Python/) / [C++](CXX/)
+    * puissanceDeDeux - [JS](JavaScript/Bits/puissanceDeDeux.js) / [Python](Python/) / [C++](CXX/)
+    * sommeConsecutives - [JS](JavaScript/Bits/sommeConsecutives.js) / [Python](Python/) / [C++](CXX/)
     <br><br>
     
-  * **[Maths](/Maths)** - _Algorithmique, combinatoire, ..._
+  * **Maths** - _Algorithmique, combinatoire, ..._
   
-    * [aires.js](/Maths/aires.js)
-    * [degRad.js](/Maths/degRad.js)
-    * [distances.js](/Maths/distances.js)
-    * [factorielle.js](/Maths/factorielle.js)
-    * [fibonacci.js](/Maths/fibonacci.js)
-    * [mandelbrot.js](/Maths/mandelbrot.js)
-    * [matrices.js](/Maths/matrices.js) (en cours)
-    * [moyenne.js](/Maths/moyenne.js)
-    * [nPuissanceN.js](/Maths/nPuissanceN.js)
-    * [partieDecimale.js](/Maths/partieDecimale.js)
-    * [sommeChiffres.js](/Maths/sommeChiffres.js)
-    * [valeurAbsolue.js](/Maths/valeurAbsolue.js)
+    * aires - [JS](JavaScript/Maths/aires.js) / [Python](Python/) / [C++](CXX/)
+    * degRad - [JS](JavaScript/Maths/degRad.js) / [Python](Python/) / [C++](CXX/)
+    * distances - [JS](JavaScript/Maths/distances.js) / [Python](Python/) / [C++](CXX/)
+    * factorielle - [JS](JavaScript/Maths/factorielle.js) / [Python](Python/) / [C++](CXX/)
+    * fibonacci - [JS](JavaScript/Maths/fibonacci.js) / [Python](Python/) / [C++](CXX/)
+    * mandelbrot - [JS](JavaScript/Maths/mandelbrot.js) / [Python](Python/) / [C++](CXX/)
+    * matrices - [JS](JavaScript/Maths/matrices.js) / [Python](Python/) / [C++](CXX/)
+    * moyenne - [JS](JavaScript/Maths/moyenne.js) / [Python](Python/) / [C++](CXX/)
+    * nPuissanceN - [JS](JavaScript/Maths/nPuissanceN.js) / [Python](Python/) / [C++](CXX/)
+    * partieDecimale - [JS](JavaScript/Maths/partieDecimale.js) / [Python](Python/) / [C++](CXX/)
+    * sommeChiffres - [JS](JavaScript/Maths/sommeChiffres.js) / [Python](Python/) / [C++](CXX/)
+    * valeurAbsolue - [JS](JavaScript/Maths/valeurAbsolue.js) / [Python](Python/) / [C++](CXX/)
     <br><br>
   ---
 
-![thumbnail](./img/thumbnail.jpg)
+<p align="center"><img src="./img/thumbnail.jpg" /></p>
