@@ -1,7 +1,7 @@
 /**
  * @description Vérifie si un nombre est positif.
- * @param {number} int - Nombre a vérifier
- * @return {boolean} True si pair, false sinon
+ * @param {number} int - Nombre à vérifier
+ * @return {boolean} True si positif, false sinon
  */
 const estPositif = (int) => int >> 31 === 0;
 
