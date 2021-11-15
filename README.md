@@ -13,11 +13,11 @@ It is regularly updated.<br><br>
    ## Thèmes
   * **[Arrays](https://fr.wikipedia.org/wiki/Tableau_(structure_de_donn%C3%A9es))** - _Manipulation de tableaux_
   
-    * clonerTableau - [JS](JavaScript/Arrays/clonerTableau.js) / [Python](Python/) / [C++](CXX/)
-    * isolerElements - [JS](JavaScript/Arrays/isolerElements.js) / [Python](Python/) / [C++](CXX/)
-    * mesureProfondeur - [JS](JavaScript/Arrays/mesureProfondeur.js) / [Python](Python/) / [C++](CXX/)
-    * sousTableaux - [JS](JavaScript/Arrays/sousTableaux.js) / [Python](Python/) / [C++](CXX/)
-    * tableauDeMultiples - [JS](JavaScript/Arrays/tableauDeMultiples.js) / [Python](Python/) / [C++](CXX/)
+    * clonerTableau - [JS](JavaScript/Arrays/clonerTableau.js) / [Python](Python/Arrays/clonerTableau.py) / [C++](CXX/)
+    * isolerElements - [JS](JavaScript/Arrays/isolerElements.js) / [Python](Python/Arrays/isolerElements.py) / [C++](CXX/)
+    * mesureProfondeur - [JS](JavaScript/Arrays/mesureProfondeur.js) / [Python](Python/Arrays/mesureProfondeur.py) / [C++](CXX/)
+    * sousTableaux - [JS](JavaScript/Arrays/sousTableaux.js) / [Python](Python/Arrays/sousTableaux.py) / [C++](CXX/)
+    * tableauDeMultiples - [JS](JavaScript/Arrays/tableauDeMultiples.js) / [Python](Python/Arrays/tableauDeMultiples.py) / [C++](CXX/)
     <br><br>
 
   * **[Bits](https://fr.wikipedia.org/wiki/Bit)** - _Manipulation de bits_
