@@ -1,5 +1,5 @@
 /**
- * @description Division d'un nombre par deux.
+ * @description Fonction qui divise un nombre par deux, grace à l'opérateur de décalage binaire à droite (>>).
  * @param {number} int - Nombre à diviser par deux.
  * @return {number} Nombre divisé par deux.
  */
