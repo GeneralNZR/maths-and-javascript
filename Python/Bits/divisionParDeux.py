@@ -7,7 +7,7 @@ def divisionParDeux(n: int) -> int:
     Paramètres:
         n: {int} -- Le nombre à diviser par deux.
 
-    Retour:
+    Retourne:
         {int} -- Le résultat de la division par deux.
     
     Exemple:

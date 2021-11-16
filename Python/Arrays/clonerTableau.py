@@ -7,7 +7,7 @@ def cloner_tableau(arr: list) -> list:
     Paramètres:
         arr: {list} -- Tableau à cloner.
     
-    Retour:
+    Retourne:
         {list} -- le tableau cloné.
 
     Exemple:

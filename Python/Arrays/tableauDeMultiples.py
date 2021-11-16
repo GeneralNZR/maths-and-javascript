@@ -7,7 +7,7 @@ def tableauDeMultiples(n: int, limite: int) -> list:
         n: {int} -- Le nombre entier positif.
         limite: {int} -- La limite.
     
-    Retour:
+    Retourne:
         {list} -- La liste des multiples de n.
 
     Exemple:

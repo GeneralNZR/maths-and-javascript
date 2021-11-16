@@ -6,7 +6,7 @@ def inverserBinaire(n: int) -> int:
     Paramètres:
         n: {int} -- Le nombre à convertir, puis à inverser.
     
-    Retour:
+    Retourne:
         {int} -- Le nombre binaire inversé.
     
     Exemple:

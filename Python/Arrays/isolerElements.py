@@ -8,7 +8,7 @@ def isolerElements(arr: list, sub: list, e: int) -> list:
         sub: {list} -- Tableau d'entiers.
         e: {int} -- Entier.
 
-    Retour:
+    Retourne:
         {list} -- Tableau d'entiers.
     
     Exemple:

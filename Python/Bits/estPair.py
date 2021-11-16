@@ -6,7 +6,7 @@ def estPair(n: int) -> bool:
     Paramètres:
         n: {int} -- Le nombre à vérifier.
     
-    Retour:
+    Retourne:
         {bool} -- True si le nombre est pair, False sinon.
 
     Exemple:

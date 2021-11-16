@@ -6,7 +6,7 @@ def entierEnBinaire(n: int) -> str:
     Paramètres:
         n: {int} -- L'entier à convertir.
 
-    Retour:
+    Retourne:
         {str} -- Lé nombre converti en binaire.
 
     Exemple:

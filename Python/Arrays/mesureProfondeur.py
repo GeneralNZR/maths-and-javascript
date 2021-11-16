@@ -10,7 +10,7 @@ def mesureProfondeur(arr: list) -> int:
     Paramètres:
         arr: {list} -- Tableau à mesurer. 
 
-    Retour:
+    Retourne:
         {int} -- Profondeur du tableau.
 
     Exemple:

@@ -7,7 +7,7 @@ def sousTableaux(arr: list, n: int) -> list:
         arr: {list} -- Tableau à découper
         n: {int} -- Nombre d'éléments par sous-tableau
 
-    Retour:
+    Retourne:
         {list} -- Liste de sous-tableaux
 
     Exemple:

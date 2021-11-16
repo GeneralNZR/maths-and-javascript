@@ -6,7 +6,7 @@ def estPositif(n: int) -> bool:
     Paramètres:
         n: {int} -- Nombre à vérifier
     
-    Retour:
+    Retourne:
         {bool} -- True si positif, false sinon
 
     Exemple:

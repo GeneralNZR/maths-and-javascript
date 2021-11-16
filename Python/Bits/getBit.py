@@ -7,7 +7,7 @@ def getBit(n: int, i: int) -> int:
         n: {int} -- Le nombre à traiter
         i: {int} -- L'index du bit à récupérer
 
-    Retour:
+    Retourne:
         {int} -- 0 ou 1
 
     Exemple:
