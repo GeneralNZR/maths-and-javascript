@@ -1,4 +1,3 @@
-# Division d'un nombre par deux
 def divisionParDeux(n: int) -> int:
     """
     Description:

@@ -1,4 +1,3 @@
-# Renvoie le nombre de bits utilisés dans la représentation binaire du nombre
 def longueurBit(n: int) -> int:
     """
     Description:
