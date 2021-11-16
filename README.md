@@ -22,7 +22,7 @@ It is regularly updated.<br><br>
 
   * **[Bits](https://fr.wikipedia.org/wiki/Bit)** - _Manipulation de bits_
 
-    * chiffrementXOR - [JS](JavaScript/Bits/chiffrementXOR.js) / [Python](Python/) / [C++](CXX/)
+    * chiffrementXOR - [JS](JavaScript/Bits/chiffrementXOR.js) / [Python](Python/Bits/chiffrementXOR.py) / [C++](CXX/)
     * divisionParDeux - [JS](JavaScript/Bits/divisionParDeux.js) / [Python](Python/Bits/divisionParDeux.py) / [C++](CXX/)
     * entierEnBinaire - [JS](JavaScript/Bits/entierEnBinaire.js) / [Python](Python/Bits/entierEnBinaire.py) / [C++](CXX/)
     * estPair - [JS](JavaScript/Bits/estPair.js) / [Python](Python/Bits/estPair.py) / [C++](CXX/)
