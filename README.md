@@ -33,7 +33,7 @@ It is regularly updated.<br><br>
     * multiplicationParDeux - [JS](JavaScript/Bits/multiplicationParDeux.js) / [Python](Python/Bits/multiplicationParDeux.py) / [C++](CXX/)
     * permutationXOR - [JS](JavaScript/Bits/permutationXOR.js) / [Python](Python/) / [C++](CXX/)
     * puissanceDeDeux - [JS](JavaScript/Bits/puissanceDeDeux.js) / [Python](Python/Bits/puissanceDeDeux.py) / [C++](CXX/)
-    * sommeConsecutives - [JS](JavaScript/Bits/sommeConsecutives.js) / [Python](Python/) / [C++](CXX/)
+    * sommeConsecutive - [JS](JavaScript/Bits/sommeConsecutive.js) / [Python](Python/Bits/sommeConsecutive.py) / [C++](CXX/)
     <br><br>
     
   * **Maths** - _Algorithmique, combinatoire, ..._
