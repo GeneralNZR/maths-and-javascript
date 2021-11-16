@@ -1,4 +1,3 @@
-# Vérifier si un nombre est une puissance de deux
 def puissanceDeDeux(n: int) -> bool:
     """
     Description:
