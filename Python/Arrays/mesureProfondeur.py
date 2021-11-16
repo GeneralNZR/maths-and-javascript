@@ -7,10 +7,10 @@ def mesureProfondeur(arr: list) -> int:
 
         Méthode récursive.
 
-    Arguments:
+    Paramètres:
         arr: {list} -- Tableau à mesurer. 
 
-    Return:
+    Retour:
         {int} -- Profondeur du tableau.
 
     Exemple:

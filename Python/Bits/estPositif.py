@@ -3,10 +3,10 @@ def estPositif(n: int) -> bool:
     Description:
         Vérifie si un nombre est positif.
     
-    Arguments:
+    Paramètres:
         n: {int} -- Nombre à vérifier
     
-    Return:
+    Retour:
         {bool} -- True si positif, false sinon
 
     Exemple:

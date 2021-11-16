@@ -3,10 +3,10 @@ def estPair(n: int) -> bool:
     Description:
         Vérifie si un nombre est pair ou non.
     
-    Arguments:
+    Paramètres:
         n: {int} -- Le nombre à vérifier.
     
-    Return:
+    Retour:
         {bool} -- True si le nombre est pair, False sinon.
 
     Exemple:

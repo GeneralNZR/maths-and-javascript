@@ -4,10 +4,10 @@ def cloner_tableau(arr: list) -> list:
         Permet de cloner un tableau dans un tableau.
         L'opérateur ( * ) permet de déballer un itérable pour en créer un nouveau.
 
-    Arguments:
+    Paramètres:
         arr: {list} -- Tableau à cloner.
     
-    Return:
+    Retour:
         {list} -- le tableau cloné.
 
     Exemple:

@@ -3,12 +3,12 @@ def isolerElements(arr: list, sub: list, e: int) -> list:
     Description:
         Isoler les éléments doublons d'un tableau dans un autre, sans changer l'ordre des éléments.
     
-    Arguments:
+    Paramètres:
         arr: {list} -- Tableau d'entiers.
         sub: {list} -- Tableau d'entiers.
         e: {int} -- Entier.
 
-    Return:
+    Retour:
         {list} -- Tableau d'entiers.
     
     Exemple:

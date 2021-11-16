@@ -3,11 +3,11 @@ def sousTableaux(arr: list, n: int) -> list:
     Description:
         Découper un tableau en sous-tableaux.
 
-    Arguments:
+    Paramètres:
         arr: {list} -- Tableau à découper
         n: {int} -- Nombre d'éléments par sous-tableau
 
-    Return:
+    Retour:
         {list} -- Liste de sous-tableaux
 
     Exemple:

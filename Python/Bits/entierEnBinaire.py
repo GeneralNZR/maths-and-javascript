@@ -3,10 +3,10 @@ def entierEnBinaire(n: int) -> str:
     Description:
         Convertit un entier en binaire. Pour gérer les nombres négatifs, on ajoute 2**32 (ou 1<<32).
 
-    Arguments:
+    Paramètres:
         n: {int} -- L'entier à convertir.
 
-    Return:
+    Retour:
         {str} -- Lé nombre converti en binaire.
 
     Exemple:

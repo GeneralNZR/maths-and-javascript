@@ -3,11 +3,11 @@ def getBit(n: int, i: int) -> int:
     Description: 
         Récupère le i-ème bit de n.
     
-    Arguments:
+    Paramètres:
         n: {int} -- Le nombre à traiter
         i: {int} -- L'index du bit à récupérer
 
-    Return:
+    Retour:
         {int} -- 0 ou 1
 
     Exemple:

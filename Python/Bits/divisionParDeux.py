@@ -4,10 +4,10 @@ def divisionParDeux(n: int) -> int:
     Description:
         Fonction qui divise un nombre par deux, grace à l'opérateur de décalage binaire à droite (>>).
 
-    Arguments:
+    Paramètres:
         n: {int} -- Le nombre à diviser par deux.
 
-    Return:
+    Retour:
         {int} -- Le résultat de la division par deux.
     
     Exemple:

@@ -3,11 +3,11 @@ def tableauDeMultiples(n: int, limite: int) -> list:
     Description:
         Trouver les multiples d'un nombre entier positif jusqu'à une limite donnée.
 
-    Arguments:
+    Paramètres:
         n: {int} -- Le nombre entier positif.
         limite: {int} -- La limite.
     
-    Return:
+    Retour:
         {list} -- La liste des multiples de n.
 
     Exemple:
