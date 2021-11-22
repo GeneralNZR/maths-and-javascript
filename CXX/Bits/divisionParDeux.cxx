@@ -20,3 +20,4 @@ int main()
     divisionParDeux(10);
     return 0;
 }
+// Output: 10 >> 1 = 5
