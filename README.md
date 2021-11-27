@@ -42,7 +42,7 @@ It is regularly updated.<br><br>
     * degRad - [JS](JavaScript/Maths/degRad.js) / [Python](Python/Maths/degRad.py)
     * distances - [JS](JavaScript/Maths/distances.js) / [Python](Python/Maths/distances.py)
     * factorielle - [JS](JavaScript/Maths/factorielle.js) / [Python](Python/Maths/factorielle.py)
-    * fibonacci - [JS](JavaScript/Maths/fibonacci.js)
+    * fibonacci - [JS](JavaScript/Maths/fibonacci.js) / [Python](Python/Maths/fibonacci.py)
     * mandelbrot - [JS](JavaScript/Maths/mandelbrot.js)
     * matrices - [JS](JavaScript/Maths/matrices.js)
     * moyenne - [JS](JavaScript/Maths/moyenne.js)
