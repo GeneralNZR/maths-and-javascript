@@ -40,7 +40,7 @@ It is regularly updated.<br><br>
   
     * aires - [JS](JavaScript/Maths/aires.js) / [Python](Python/Maths/aires.py)
     * degRad - [JS](JavaScript/Maths/degRad.js) / [Python](Python/Maths/degRad.py)
-    * distances - [JS](JavaScript/Maths/distances.js)
+    * distances - [JS](JavaScript/Maths/distances.js) / [Python](Python/Maths/distances.py)
     * factorielle - [JS](JavaScript/Maths/factorielle.js)
     * fibonacci - [JS](JavaScript/Maths/fibonacci.js)
     * mandelbrot - [JS](JavaScript/Maths/mandelbrot.js)

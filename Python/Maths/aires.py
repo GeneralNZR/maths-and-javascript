@@ -101,8 +101,20 @@ def aireTore(r: float, R: float) -> float:
 
 # TESTS
 table_data = [
-    ['aireSphère(3)', 'aireCube(3)', 'aireCylindre(3, 3)', 'aireCone(3, 3)', 'aireTore(3, 3)'],
-    [airephère(3), aireCube(3), aireCylindre(3, 3), aireCone(3, 3), aireTore(3, 3)],
+    [
+        'aireSphère(3)', 
+        'aireCube(3)', 
+        'aireCylindre(3, 3)', 
+        'aireCone(3, 3)', 
+        'aireTore(3, 3)'
+    ],
+    [
+        airephère(3), 
+        aireCube(3), 
+        aireCylindre(3, 3), 
+        aireCone(3, 3), 
+        aireTore(3, 3)
+    ],
 ]
 for row in table_data:
     print("{: <20} {: <20} {: <20} {: <20} {: <20}".format(*row))
