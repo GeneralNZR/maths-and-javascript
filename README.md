@@ -38,7 +38,7 @@ It is regularly updated.<br><br>
     
   * **Maths** - _Algorithmique, combinatoire, ..._
   
-    * aires - [JS](JavaScript/Maths/aires.js)
+    * aires - [JS](JavaScript/Maths/aires.js) / [Python](Python/Maths/aires.py)
     * degRad - [JS](JavaScript/Maths/degRad.js)
     * distances - [JS](JavaScript/Maths/distances.js)
     * factorielle - [JS](JavaScript/Maths/factorielle.js)

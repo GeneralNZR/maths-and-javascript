@@ -25,7 +25,7 @@ const aireCube = (c) => 6 * c ** 2;
  * @param {number} h - Hauteur du cylindre
  * @return {number} Aire du cylindre
  */
-const aireCylindre = (r, h) => 2 * Math.PI * r * h + 2 * Math.PI * r ** 2;
+const aireCylindre = (r, h) => 2 * Math.PI * r * h + (2 * Math.PI * (r ** 2));
 
 /**
  * @description Calcul de l'aire d'un cone
