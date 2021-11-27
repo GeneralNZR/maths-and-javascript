@@ -43,7 +43,7 @@ It is regularly updated.<br><br>
     * distances - [JS](JavaScript/Maths/distances.js) / [Python](Python/Maths/distances.py)
     * factorielle - [JS](JavaScript/Maths/factorielle.js) / [Python](Python/Maths/factorielle.py)
     * fibonacci - [JS](JavaScript/Maths/fibonacci.js) / [Python](Python/Maths/fibonacci.py)
-    * mandelbrot - [JS](JavaScript/Maths/mandelbrot.js)
+    * mandelbrot - [JS](JavaScript/Maths/mandelbrot.js) / [Python](Python/Maths/mandelbrot.py)
     * matrices - [JS](JavaScript/Maths/matrices.js)
     * moyenne - [JS](JavaScript/Maths/moyenne.js)
     * nPuissanceN - [JS](JavaScript/Maths/nPuissanceN.js)
