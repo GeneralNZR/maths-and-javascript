@@ -2,6 +2,12 @@ module EstPair (estPair) where
 
 import Data.Bits (shiftL, shiftR, (.&.), (.|.))
 
+{-| Fonction qui vérifie si un nombre est pair ou non.
+
+    Input: Int - Nombre à vérifier.
+
+    Output: Bool - True si le nombre est pair, False sinon.
+-}
 estPair :: Int -> Bool
 estPair x = x .&. 1 == 0
 

@@ -1,5 +1,6 @@
 /**
- * @description Inverser la conversion binaire d'un nombre entier
+ * @description Une fonction qui prend en paramètre un entier positif et qui retourne 
+ * la représentation binaire de cet entier.
  * @param {number} int - Nombre entier à convertir en binaire, puis à inverser.
  * @return {number} Nombre binaire inversé
  */

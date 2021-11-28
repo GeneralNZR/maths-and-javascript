@@ -6,9 +6,9 @@ import Data.Bits (shiftR, (.&.))
     On ajoute 10 à x pour que le résultat soit toujours un entier, 
     et on applique la fonction récursive sur le reste de x, en divisant par 2.
 
-    Input:  Int
+    Input:  Int - Nombre à convertir en binaire
 
-    Output: Int
+    Output: Int - Nombre converti en binaire
 -}
 entierEnBinaire :: Int -> Int
 entierEnBinaire 0 = 0

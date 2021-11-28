@@ -2,9 +2,17 @@ module GetBit (getBit) where
 
 import Data.Bits (shiftR, (.&.))
 
+{-| Fonction qui récupère le i-ième bit de n.
+
+    Inputs: Int - Nombre à découper
+            Int - Position du bit à récupérer
+
+    Output: Bool - Bit à la position i (0 ou 1)
+-}
 getBit :: Int -> Int -> Int
 getBit n i = (n `shiftR` i) .&. 1
 
+-- TEST
 main :: IO ()
 main = do
     mapM_

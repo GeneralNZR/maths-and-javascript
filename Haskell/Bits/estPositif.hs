@@ -2,9 +2,16 @@ module EstPositif (estPositif) where
 
 import Data.Bits (shiftR, (.&.))
 
+{-| Fonction qui vérifie si un nombre est positif ou non.
+
+    Input: Int - Nombre à vérifier.
+
+    Output: Bool - True si le nombre est positif, False sinon.
+-}
 estPositif :: Int -> Bool
 estPositif x = shiftR x 31 == 0
 
+-- TEST
 main :: IO ()
 main = do
     mapM_
