@@ -46,7 +46,7 @@ It is regularly updated.<br><br>
     * mandelbrot - [JS](JavaScript/Maths/mandelbrot.js) / [Python](Python/Maths/mandelbrot.py)
     * matrices - [JS](JavaScript/Maths/matrices.js) / [Python](Python/Maths/matrices.py)
     * moyenne - [JS](JavaScript/Maths/moyenne.js) / [Python](Python/Maths/moyenne.py)
-    * nPuissanceN - [JS](JavaScript/Maths/nPuissanceN.js)
+    * nPuissanceN - [JS](JavaScript/Maths/nPuissanceN.js) / [Python](Python/Maths/n_puissance_n.py)
     * partieDecimale - [JS](JavaScript/Maths/partieDecimale.js)
     * sommeChiffres - [JS](JavaScript/Maths/sommeChiffres.js)
     * valeurAbsolue - [JS](JavaScript/Maths/valeurAbsolue.js)
