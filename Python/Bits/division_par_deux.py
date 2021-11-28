@@ -1,4 +1,4 @@
-def divisionParDeux(n: int) -> int:
+def division_par_deux(n: int) -> int:
     """
     Description:
         Fonction qui divise un nombre par deux, grace à l'opérateur de décalage binaire à droite (>>).
@@ -10,7 +10,7 @@ def divisionParDeux(n: int) -> int:
         {int} -- Le résultat de la division par deux.
     
     Exemple:
-        >>> divisionParDeux(10)
+        >>> division_par_deux(10)
         5
 
         00000000000000000000000000001010 représente 10, soit 2^3 + 0 + 2^1 + 0

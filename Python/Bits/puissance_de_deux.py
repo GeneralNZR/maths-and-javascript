@@ -1,4 +1,4 @@
-def puissanceDeDeux(n: int) -> bool:
+def puissance_de_deux(n: int) -> bool:
     """
     Description:
         Vérifier si un nombre est une puissance de deux
@@ -10,10 +10,10 @@ def puissanceDeDeux(n: int) -> bool:
         {bool} -- True si n est une puissance de deux, False sinon
     
     Exemple:
-        >>> puissanceDeDeux(8)
+        >>> puissance_de_deux(8)
         True
 
-        >>> puissanceDeDeux(7)
+        >>> puissance_de_deux(7)
         False
 
     On prend un nombre entier n, on vérifie si n & (n - 1) est égal à 0.

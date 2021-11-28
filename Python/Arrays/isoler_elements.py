@@ -1,4 +1,4 @@
-def isolerElements(arr: list, sub: list, e: int) -> list:
+def isoler_elements(arr: list, sub: list, e: int) -> list:
     """
     Description:
         Isoler les éléments doublons d'un tableau dans un autre, sans changer l'ordre des éléments.
@@ -12,7 +12,7 @@ def isolerElements(arr: list, sub: list, e: int) -> list:
         {list} -- Tableau d'entiers.
     
     Exemple:
-        >>> isolerElements([0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1], [], 1)
+        >>> isoler_elements([0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1], [], 1)
         [[0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1]]
     """
     for i in range(len(arr)):

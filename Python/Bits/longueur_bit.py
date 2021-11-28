@@ -1,4 +1,4 @@
-def longueurBit(n: int) -> int:
+def longueur_bit(n: int) -> int:
     """
     Description:
         Renvoie le nombre de bits utilisés dans la représentation binaire d'un nombre entier.
@@ -10,13 +10,13 @@ def longueurBit(n: int) -> int:
         {int} -- Le nombre de bits utilisés dans la représentation binaire du nombre.
     
     Exemple:
-        >>> longueurBit(1)
+        >>> longueur_bit(1)
         1
 
-        >>> longueurBit(8)
+        >>> longueur_bit(8)
         4
 
-        >>> longueurBit(512)
+        >>> longueur_bit(512)
         10
 
         1 => 1, 8 => 1000, 512 => 1000000000 (décimal => binaire)

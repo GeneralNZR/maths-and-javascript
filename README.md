@@ -13,38 +13,38 @@ It is regularly updated.<br><br>
    ## Thèmes
   * **[Arrays](https://fr.wikipedia.org/wiki/Tableau_(structure_de_donn%C3%A9es))** - _Manipulation de tableaux_
   
-    * clonerTableau - [JS](JavaScript/Arrays/clonerTableau.js) / [Python](Python/Arrays/clonerTableau.py)
-    * isolerElements - [JS](JavaScript/Arrays/isolerElements.js) / [Python](Python/Arrays/isolerElements.py)
-    * mesureProfondeur - [JS](JavaScript/Arrays/mesureProfondeur.js) / [Python](Python/Arrays/mesureProfondeur.py)
-    * sousTableaux - [JS](JavaScript/Arrays/sousTableaux.js) / [Python](Python/Arrays/sousTableaux.py)
-    * tableauDeMultiples - [JS](JavaScript/Arrays/tableauDeMultiples.js) / [Python](Python/Arrays/tableauDeMultiples.py)
+    * clonerTableau - [JS](JavaScript/Arrays/clonerTableau.js) / [Python](Python/Arrays/cloner_tableau.py)
+    * isolerElements - [JS](JavaScript/Arrays/isolerElements.js) / [Python](Python/Arrays/isoler_elements.py)
+    * mesureProfondeur - [JS](JavaScript/Arrays/mesureProfondeur.js) / [Python](Python/Arrays/mesure_profondeur.py)
+    * sousTableaux - [JS](JavaScript/Arrays/sousTableaux.js) / [Python](Python/Arrays/sous_tableaux.py)
+    * tableauDeMultiples - [JS](JavaScript/Arrays/tableauDeMultiples.js) / [Python](Python/Arrays/tableau_de_multiples.py)
     <br><br>
 
   * **[Bits](https://fr.wikipedia.org/wiki/Bit)** - _Manipulation de bits_
 
-    * chiffrementXOR - [JS](JavaScript/Bits/chiffrementXOR.js) / [Python](Python/Bits/chiffrementXOR.py)
-    * divisionParDeux - [JS](JavaScript/Bits/divisionParDeux.js) / [Python](Python/Bits/divisionParDeux.py) / [C++](CXX/Bits/divisionParDeux.cxx) / [Haskell](Haskell/Bits/divisionParDeux.hs)
-    * entierEnBinaire - [JS](JavaScript/Bits/entierEnBinaire.js) / [Python](Python/Bits/entierEnBinaire.py) / [Haskell](Haskell/Bits/entierEnBinaire.hs)
-    * estPair - [JS](JavaScript/Bits/estPair.js) / [Python](Python/Bits/estPair.py) / [Haskell](Haskell/Bits/estPair.hs)
-    * estPositif - [JS](JavaScript/Bits/estPositif.js) / [Python](Python/Bits/estPositif.py)
-    * getbit - [JS](JavaScript/Bits/getBit.js) / [Python](Python/Bits/getBit.py)
-    * inverserBinaire - [JS](JavaScript/Bits/inverserBinaire.js) / [Python](Python/Bits/inverserBinaire.py)
-    * longueurBit - [JS](JavaScript/Bits/longueurBit.js) / [Python](Python/Bits/longueurBit.py)
-    * multiplicationParDeux - [JS](JavaScript/Bits/multiplicationParDeux.js) / [Python](Python/Bits/multiplicationParDeux.py)
-    * permutationXOR - [JS](JavaScript/Bits/permutationXOR.js) / [Python](Python/Bits/permutationXOR.py)
-    * puissanceDeDeux - [JS](JavaScript/Bits/puissanceDeDeux.js) / [Python](Python/Bits/puissanceDeDeux.py)
-    * sommeConsecutive - [JS](JavaScript/Bits/sommeConsecutive.js) / [Python](Python/Bits/sommeConsecutive.py)
+    * chiffrementXOR - [JS](JavaScript/Bits/chiffrementXOR.js) / [Python](Python/Bits/chiffrement_XOR.py)
+    * divisionParDeux - [JS](JavaScript/Bits/divisionParDeux.js) / [Python](Python/Bits/division_par_deux.py) / [C++](CXX/Bits/divisionParDeux.cxx) / [Haskell](Haskell/Bits/divisionParDeux.hs)
+    * entierEnBinaire - [JS](JavaScript/Bits/entierEnBinaire.js) / [Python](Python/Bits/entier_en_binaire.py) / [Haskell](Haskell/Bits/entierEnBinaire.hs)
+    * estPair - [JS](JavaScript/Bits/estPair.js) / [Python](Python/Bits/est_pair.py) / [Haskell](Haskell/Bits/estPair.hs)
+    * estPositif - [JS](JavaScript/Bits/estPositif.js) / [Python](Python/Bits/est_positif.py)
+    * getbit - [JS](JavaScript/Bits/getBit.js) / [Python](Python/Bits/get_bit.py)
+    * inverserBinaire - [JS](JavaScript/Bits/inverserBinaire.js) / [Python](Python/Bits/inverser_binaire.py)
+    * longueurBit - [JS](JavaScript/Bits/longueurBit.js) / [Python](Python/Bits/longueur_bit.py)
+    * multiplicationParDeux - [JS](JavaScript/Bits/multiplicationParDeux.js) / [Python](Python/Bits/multiplication_par_deux.py)
+    * permutationXOR - [JS](JavaScript/Bits/permutationXOR.js) / [Python](Python/Bits/permutation_XOR.py)
+    * puissanceDeDeux - [JS](JavaScript/Bits/puissanceDeDeux.js) / [Python](Python/Bits/puissance_de_Deux.py)
+    * sommeConsecutive - [JS](JavaScript/Bits/sommeConsecutive.js) / [Python](Python/Bits/somme_consecutive.py)
     <br><br>
     
   * **Maths** - _Algorithmique, combinatoire, ..._
   
     * aires - [JS](JavaScript/Maths/aires.js) / [Python](Python/Maths/aires.py)
-    * degRad - [JS](JavaScript/Maths/degRad.js) / [Python](Python/Maths/degRad.py)
+    * degRad - [JS](JavaScript/Maths/degRad.js) / [Python](Python/Maths/deg_rad.py)
     * distances - [JS](JavaScript/Maths/distances.js) / [Python](Python/Maths/distances.py)
     * factorielle - [JS](JavaScript/Maths/factorielle.js) / [Python](Python/Maths/factorielle.py)
     * fibonacci - [JS](JavaScript/Maths/fibonacci.js) / [Python](Python/Maths/fibonacci.py)
     * mandelbrot - [JS](JavaScript/Maths/mandelbrot.js) / [Python](Python/Maths/mandelbrot.py)
-    * matrices - [JS](JavaScript/Maths/matrices.js)
+    * matrices - [JS](JavaScript/Maths/matrices.js) / [Python](Python/Maths/matrices.py)
     * moyenne - [JS](JavaScript/Maths/moyenne.js)
     * nPuissanceN - [JS](JavaScript/Maths/nPuissanceN.js)
     * partieDecimale - [JS](JavaScript/Maths/partieDecimale.js)

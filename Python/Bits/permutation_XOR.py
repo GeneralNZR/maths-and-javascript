@@ -1,4 +1,4 @@
-def permutationXOR(x: int, y: int) -> list:
+def permutation_XOR(x: int, y: int) -> list:
     """
     Description:
         Algorithme pour échanger les valeurs de deux variables sans utiliser la variable temporaire qui est normalement requise avec l'opérateur (^) OU exclusif (XOR).
@@ -11,10 +11,10 @@ def permutationXOR(x: int, y: int) -> list:
         {list} -- Le résultat de l'opération.
 
     Exemple:
-        >>> permutationXOR(0, 1)
+        >>> permutation_XOR(0, 1)
         [1, 0]
 
-        >>> permutationXOR(1, 0)
+        >>> permutation_XOR(1, 0)
         [0, 1]
 
         ┌───┬───┬───────┐

@@ -1,4 +1,4 @@
-def multiplicationParDeux(n: int) -> int:
+def multiplication_par_deux(n: int) -> int:
     """
     Description:
         Multiplication d'un nombre par deux.
@@ -10,7 +10,7 @@ def multiplicationParDeux(n: int) -> int:
         {int} -- Nombre multiplié par deux
     
     Exemple:
-        >>> multiplicationParDeux(5)
+        >>> multiplication_par_deux(5)
         10
 
         On décale les bits de n de 1 vers la gauche grâce à l'opérateur (<<).

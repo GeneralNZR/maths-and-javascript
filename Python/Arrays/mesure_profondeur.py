@@ -1,4 +1,4 @@
-def mesureProfondeur(arr: list) -> int:
+def mesure_profondeur(arr: list) -> int:
     """
     Description:
         Permet de mesurer la profondeur d'un tableau.
@@ -14,14 +14,14 @@ def mesureProfondeur(arr: list) -> int:
         {int} -- Profondeur du tableau.
 
     Exemple:
-        >>> mesureProfondeur([])
+        >>> mesure_profondeur([])
         1
-        >>> mesureProfondeur([[[[[[[[[[]]]]]]]]]])
+        >>> mesure_profondeur([[[[[[[[[[]]]]]]]]]])
         10
     """
-    return 1 + mesureProfondeur(arr[0]) if len(arr) > 0 else 1
+    return 1 + mesure_profondeur(arr[0]) if len(arr) > 0 else 1
 
-def mesureProfondeur2(arr: list) -> int:
+def mesure_profondeur2(arr: list) -> int:
     """
     Description:
         Permet de mesurer la profondeur d'un tableau.
@@ -37,9 +37,9 @@ def mesureProfondeur2(arr: list) -> int:
         {int} -- Profondeur du tableau.
 
     Exemple:
-        >>> mesureProfondeur2([])
+        >>> mesure_profondeur2([])
         1
-        >>> mesureProfondeur2([[[[[[[[[[]]]]]]]]]])
+        >>> mesure_profondeur2([[[[[[[[[[]]]]]]]]]])
         10
     """
     profondeur = 1

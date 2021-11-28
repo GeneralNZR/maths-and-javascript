@@ -1,4 +1,4 @@
-def estPair(n: int) -> bool:
+def est_pair(n: int) -> bool:
     """
     Description:
         Vérifie si un nombre est pair ou non.
@@ -10,10 +10,10 @@ def estPair(n: int) -> bool:
         {bool} -- True si le nombre est pair, False sinon.
 
     Exemple:
-        >>> estPair(6)
+        >>> est_pair(6)
         True
 
-        >>> estPair(11)
+        >>> est_pair(11)
         False
 
         00000000000000000000000000000000 32 bits

@@ -10,7 +10,7 @@ Version:
     1.0
 """
 
-def airephère(r: float) -> float:
+def aire_sphere(r: float) -> float:
     """
     Description:
         Fonction qui calcule l'aire d'une sphère.
@@ -22,13 +22,13 @@ def airephère(r: float) -> float:
         {float} -- L'aire de la sphère.
 
     Exemple:
-        >>> airephère(3)
+        >>> aire_sphere(3)
         113.09733552923255
     """
     return 4 * pi * (r ** 2)
 
 
-def aireCube(c: float) -> float:
+def aire_cube(c: float) -> float:
     """
     Description:
         Fonction qui calcule l'aire d'un cube.
@@ -40,12 +40,12 @@ def aireCube(c: float) -> float:
         {float} -- L'aire du cube.
 
     Exemple:
-        >>> aireCube(3)
+        >>> aire_cube(3)
         54
     """
     return 6 * (c ** 2)
 
-def aireCylindre(r: float, h: float) -> float:
+def aire_cylindre(r: float, h: float) -> float:
     """
     Description:
         Fonction qui calcule l'aire d'un cylindre.
@@ -58,12 +58,12 @@ def aireCylindre(r: float, h: float) -> float:
         {float} -- L'aire du cylindre.
 
     Exemple:
-        >>> aireCylindre(3, 3)
+        >>> aire_cylindre(3, 3)
         113.09733552923255
     """
     return 2 * pi * r * h + (2 * pi * (r ** 2))
 
-def aireCone(r: float, h: float) -> float:
+def aire_cone(r: float, h: float) -> float:
     """
     Description:
         Fonction qui calcule l'aire d'un cone.
@@ -76,12 +76,12 @@ def aireCone(r: float, h: float) -> float:
         {float} -- L'aire du cone.
 
     Exemple:
-        >>> aireCone(3, 3)
+        >>> aire_cone(3, 3)
         68.26028032573343
     """
     return pi * r * (r + sqrt(h ** 2 + r ** 2))
 
-def aireTore(r: float, R: float) -> float:
+def aire_tore(r: float, R: float) -> float:
     """
     Description:
         Fonction qui calcule l'aire d'un tore.
@@ -94,7 +94,7 @@ def aireTore(r: float, R: float) -> float:
         {float} -- L'aire du tore.
 
     Exemple:
-        >>> aireTore(3, 3)
+        >>> aire_tore(3, 3)
         355.3057584392169
     """
     return 4 * pi ** 2 * r * R
@@ -102,19 +102,19 @@ def aireTore(r: float, R: float) -> float:
 # TESTS
 table_data = [
     [
-        'aireSphère(3)', 
-        'aireCube(3)', 
-        'aireCylindre(3, 3)', 
-        'aireCone(3, 3)', 
-        'aireTore(3, 3)'
+        'aire_sphere(3)', 
+        'aire_cube(3)', 
+        'aire_cylindre(3, 3)', 
+        'aire_cone(3, 3)', 
+        'aire_tore(3, 3)'
     ],
     [
-        airephère(3), 
-        aireCube(3), 
-        aireCylindre(3, 3), 
-        aireCone(3, 3), 
-        aireTore(3, 3)
-    ],
+        aire_sphere(3), 
+        aire_cube(3), 
+        aire_cylindre(3, 3), 
+        aire_cone(3, 3), 
+        aire_tore(3, 3)
+    ]
 ]
 for row in table_data:
     print("{: <20} {: <20} {: <20} {: <20} {: <20}".format(*row))

@@ -1,4 +1,4 @@
-def estPositif(n: int) -> bool:
+def est_positif(n: int) -> bool:
     """
     Description:
         Vérifie si un nombre est positif.
@@ -10,10 +10,10 @@ def estPositif(n: int) -> bool:
         {bool} -- True si positif, false sinon
 
     Exemple:
-        >>> estPositif(1)
+        >>> est_positif(1)
         True
 
-        >>> estPositif(-1)
+        >>> est_positif(-1)
         False
 
         10000000000000000000000000000000 équivaut à 2^31 soit 2_147_483_648

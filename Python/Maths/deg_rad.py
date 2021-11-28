@@ -1,6 +1,6 @@
 from math import pi
 
-def degEnRad(deg: float) -> float:
+def deg_en_rad(deg: float) -> float:
     """
     Description:
         Fonction qui permet de passer de degrés en radians.
@@ -17,7 +17,7 @@ def degEnRad(deg: float) -> float:
     """
     return deg * (pi / 180)
 
-def radEnDeg(rad: float) -> float:
+def rad_en_Deg(rad: float) -> float:
     """
     Description:
         Fonction qui permet de passer de radians en degrés.

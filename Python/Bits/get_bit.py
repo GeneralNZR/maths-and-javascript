@@ -1,4 +1,4 @@
-def getBit(n: int, i: int) -> int:
+def get_bit(n: int, i: int) -> int:
     """
     Description: 
         Récupère le i-ème bit de n.
@@ -11,10 +11,10 @@ def getBit(n: int, i: int) -> int:
         {int} -- 0 ou 1
 
     Exemple:
-        >>> getBit(2, 0)
+        >>> get_bit(2, 0)
         0
 
-        >>> getBit(2, 1)
+        >>> get_bit(2, 1)
         1    
     """
     return (n >> i) & 1

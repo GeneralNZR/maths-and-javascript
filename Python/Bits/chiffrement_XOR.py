@@ -1,4 +1,4 @@
-def chiffrementXOR(str1: str, str2: str) -> str:
+def chiffrement_XOR(str1: str, str2: str) -> str:
     """
     Description:
         Chiffrement de texte par OU exclusif (XOR).
@@ -14,10 +14,10 @@ def chiffrementXOR(str1: str, str2: str) -> str:
         {str} -- Texte chiffré
 
     Exemple:
-        >>> chiffrementXOR("abcdef", "0123456789")
+        >>> chiffrement_XOR("abcdef", "0123456789")
         aaeeaa
 
-        >>> chiffrementXOR("9344637f8475f2d", "f954fb6942026a4ea")
+        >>> chiffrement_XOR("9344637f8475f2d", "f954fb6942026a4ea")
         6a109816c677989
 
         Le codage est effectué par une opération XOR sur deux chaînes de caractères données. 

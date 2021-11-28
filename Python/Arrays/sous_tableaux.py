@@ -1,4 +1,4 @@
-def sousTableaux(arr: list, n: int) -> list:
+def sous_tableaux(arr: list, n: int) -> list:
     """
     Description:
         Découper un tableau en sous-tableaux.
@@ -11,7 +11,7 @@ def sousTableaux(arr: list, n: int) -> list:
         {list} -- Liste de sous-tableaux
 
     Exemple:
-        >>> sousTableaux([0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 1], 3)
+        >>> sous_tableaux([0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 1], 3)
         [[0, 0, 0], [1, 0, 0], [1, 1, 0], [1, 1, 1], [0, 1, 1], [0, 0, 1]]
     """
     if n <= 0:

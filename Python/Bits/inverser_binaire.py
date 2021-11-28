@@ -1,4 +1,4 @@
-def inverserBinaire(n: int) -> int:
+def inverser_binaire(n: int) -> int:
     """
     Description:
         Inverse la conversion binaire d'un nombre entier.
@@ -10,9 +10,9 @@ def inverserBinaire(n: int) -> int:
         {int} -- Le nombre binaire inversé.
     
     Exemple:
-        >>> inverserBinaire(8)
+        >>> inverser_binaire(8)
         1
 
-        1000 = 8, donc 0001 = 1inverserBinaire.py
+        1000 = 8, donc 0001 = 1inverser_binaire.py
     """
     return int(bin(n)[2:][::-1], 2)
