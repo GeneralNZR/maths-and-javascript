@@ -45,7 +45,7 @@ It is regularly updated.<br><br>
     * fibonacci - [JS](JavaScript/Maths/fibonacci.js) / [Python](Python/Maths/fibonacci.py)
     * mandelbrot - [JS](JavaScript/Maths/mandelbrot.js) / [Python](Python/Maths/mandelbrot.py)
     * matrices - [JS](JavaScript/Maths/matrices.js) / [Python](Python/Maths/matrices.py)
-    * moyenne - [JS](JavaScript/Maths/moyenne.js)
+    * moyenne - [JS](JavaScript/Maths/moyenne.js) / [Python](Python/Maths/moyenne.py)
     * nPuissanceN - [JS](JavaScript/Maths/nPuissanceN.js)
     * partieDecimale - [JS](JavaScript/Maths/partieDecimale.js)
     * sommeChiffres - [JS](JavaScript/Maths/sommeChiffres.js)
