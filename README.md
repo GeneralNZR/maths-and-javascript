@@ -49,7 +49,7 @@ It is regularly updated.<br><br>
     * nPuissanceN - [JS](JavaScript/Maths/nPuissanceN.js) / [Python](Python/Maths/n_puissance_n.py)
     * partieDecimale - [JS](JavaScript/Maths/partieDecimale.js) / [Python](Python/Maths/partie_decimale.py)
     * sommeChiffres - [JS](JavaScript/Maths/sommeChiffres.js) / [Python](Python/Maths/somme_chiffres.py)
-    * valeurAbsolue - [JS](JavaScript/Maths/valeurAbsolue.js)
+    * valeurAbsolue - [JS](JavaScript/Maths/valeurAbsolue.js) / [Python](Python/Maths/valeur_absolue.py)
     <br><br>
   ---
 
