@@ -26,7 +26,7 @@ It is regularly updated.<br><br>
     * divisionParDeux - [JS](JavaScript/Bits/divisionParDeux.js) / [Python](Python/Bits/division_par_deux.py) / [C++](CXX/Bits/divisionParDeux.cxx) / [Haskell](Haskell/Bits/divisionParDeux.hs)
     * entierEnBinaire - [JS](JavaScript/Bits/entierEnBinaire.js) / [Python](Python/Bits/entier_en_binaire.py) / [Haskell](Haskell/Bits/entierEnBinaire.hs)
     * estPair - [JS](JavaScript/Bits/estPair.js) / [Python](Python/Bits/est_pair.py) / [Haskell](Haskell/Bits/estPair.hs)
-    * estPositif - [JS](JavaScript/Bits/estPositif.js) / [Python](Python/Bits/est_positif.py)
+    * estPositif - [JS](JavaScript/Bits/estPositif.js) / [Python](Python/Bits/est_positif.py) / [Haskell](Haskell/Bits/estPositif.hs)
     * getbit - [JS](JavaScript/Bits/getBit.js) / [Python](Python/Bits/get_bit.py)
     * inverserBinaire - [JS](JavaScript/Bits/inverserBinaire.js) / [Python](Python/Bits/inverser_binaire.py)
     * longueurBit - [JS](JavaScript/Bits/longueurBit.js) / [Python](Python/Bits/longueur_bit.py)
