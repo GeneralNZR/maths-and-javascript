@@ -47,7 +47,7 @@ It is regularly updated.<br><br>
     * matrices - [JS](JavaScript/Maths/matrices.js) / [Python](Python/Maths/matrices.py)
     * moyenne - [JS](JavaScript/Maths/moyenne.js) / [Python](Python/Maths/moyenne.py)
     * nPuissanceN - [JS](JavaScript/Maths/nPuissanceN.js) / [Python](Python/Maths/n_puissance_n.py)
-    * partieDecimale - [JS](JavaScript/Maths/partieDecimale.js)
+    * partieDecimale - [JS](JavaScript/Maths/partieDecimale.js) / [Python](Python/Maths/partie_decimale.py)
     * sommeChiffres - [JS](JavaScript/Maths/sommeChiffres.js)
     * valeurAbsolue - [JS](JavaScript/Maths/valeurAbsolue.js)
     <br><br>
