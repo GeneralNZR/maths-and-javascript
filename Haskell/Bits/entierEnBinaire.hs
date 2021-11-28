@@ -18,18 +18,18 @@ entierEnBinaire x = (x .&. 1) + 10 * entierEnBinaire (shiftR x 1)
 main :: IO ()
 main = do
     mapM_ 
-        (\x -> putStrLn $ show x ++ " -> " ++ show (entierEnBinaire x))
+        (\x -> putStrLn $ "entierEnBinaire " ++ show x ++ " -> " ++ show (entierEnBinaire x))
         [0..10]
 {-^ Output:
-    0  -> 0
-    1  -> 1
-    2  -> 10
-    3  -> 11
-    4  -> 100
-    5  -> 101
-    6  -> 110
-    7  -> 111
-    8  -> 1000
-    9  -> 1001
-    10 -> 1010
+    entierEnBinaire 0 -> 0
+    entierEnBinaire 1 -> 1
+    entierEnBinaire 2 -> 10
+    entierEnBinaire 3 -> 11
+    entierEnBinaire 4 -> 100
+    entierEnBinaire 5 -> 101
+    entierEnBinaire 6 -> 110
+    entierEnBinaire 7 -> 111
+    entierEnBinaire 8 -> 1000
+    entierEnBinaire 9 -> 1001
+    entierEnBinaire 10 -> 1010
 -}

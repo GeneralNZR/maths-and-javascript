@@ -9,17 +9,17 @@ estPair x = x .&. 1 == 0
 main :: IO ()
 main = do
     mapM_
-        (\x -> putStrLn $ show x ++ " -> " ++ show (estPair x))
+        (\x -> putStrLn $ "estPair " ++ show x ++ " -> " ++ show (estPair x))
         [1..10]
 {-^ Output:
-    1  -> False
-    2  -> True
-    3  -> False
-    4  -> True
-    5  -> False
-    6  -> True
-    7  -> False
-    8  -> True
-    9  -> False
-    10 -> True
+    estPair 1 -> False
+    estPair 2 -> True
+    estPair 3 -> False
+    estPair 4 -> True
+    estPair 5 -> False
+    estPair 6 -> True
+    estPair 7 -> False
+    estPair 8 -> True
+    estPair 9 -> False
+    estPair 10 -> True
 -}

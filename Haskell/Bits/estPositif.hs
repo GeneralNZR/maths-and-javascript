@@ -8,16 +8,17 @@ estPositif x = shiftR x 31 == 0
 main :: IO ()
 main = do
     mapM_
-        (\x -> putStrLn $ show x ++ ": " ++ show (estPositif x))
+        (\x -> putStrLn $ "estPositif " ++ show x ++ " -> " ++ show (estPositif x))
         [-5..4]
 {-^ Output:
-   -5 -> False
-   -4 -> False
-   -3 -> False
-   -2 -> False
-   -1 -> False
-    0 -> True
-    1 -> True
-    2 -> True
-    3 -> True
+    estPositif -5: False
+    estPositif -4: False
+    estPositif -3: False
+    estPositif -2: False
+    estPositif -1: False
+    estPositif 0: True
+    estPositif 1: True
+    estPositif 2: True
+    estPositif 3: True
+    estPositif 4: True
 -}
