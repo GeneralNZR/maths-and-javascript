@@ -21,15 +21,15 @@ main = do
         (\x -> putStrLn $ "entierEnBinaire " ++ show x ++ " -> " ++ show (entierEnBinaire x))
         [0..10]
 {-^ Output:
-    entierEnBinaire 0 -> 0
-    entierEnBinaire 1 -> 1
-    entierEnBinaire 2 -> 10
-    entierEnBinaire 3 -> 11
-    entierEnBinaire 4 -> 100
-    entierEnBinaire 5 -> 101
-    entierEnBinaire 6 -> 110
-    entierEnBinaire 7 -> 111
-    entierEnBinaire 8 -> 1000
-    entierEnBinaire 9 -> 1001
+    entierEnBinaire 0  -> 0
+    entierEnBinaire 1  -> 1
+    entierEnBinaire 2  -> 10
+    entierEnBinaire 3  -> 11
+    entierEnBinaire 4  -> 100
+    entierEnBinaire 5  -> 101
+    entierEnBinaire 6  -> 110
+    entierEnBinaire 7  -> 111
+    entierEnBinaire 8  -> 1000
+    entierEnBinaire 9  -> 1001
     entierEnBinaire 10 -> 1010
 -}

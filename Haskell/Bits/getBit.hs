@@ -19,14 +19,14 @@ main = do
         (\(n, i) -> putStrLn $ "getBit " ++ show n ++ " pour i = " ++ show i ++ " -> " ++ show (getBit n i))
         [(n, i) | n <- [1..10], i <- [0]]
 {-^ Output:
-    getBit 1 pour i = 0 -> 1
-    getBit 2 pour i = 0 -> 0
-    getBit 3 pour i = 0 -> 1
-    getBit 4 pour i = 0 -> 0
-    getBit 5 pour i = 0 -> 1
-    getBit 6 pour i = 0 -> 0
-    getBit 7 pour i = 0 -> 1
-    getBit 8 pour i = 0 -> 0
-    getBit 9 pour i = 0 -> 1
+    getBit 1  pour i = 0 -> 1
+    getBit 2  pour i = 0 -> 0
+    getBit 3  pour i = 0 -> 1
+    getBit 4  pour i = 0 -> 0
+    getBit 5  pour i = 0 -> 1
+    getBit 6  pour i = 0 -> 0
+    getBit 7  pour i = 0 -> 1
+    getBit 8  pour i = 0 -> 0
+    getBit 9  pour i = 0 -> 1
     getBit 10 pour i = 0 -> 0
 -}

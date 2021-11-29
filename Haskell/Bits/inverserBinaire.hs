@@ -22,14 +22,14 @@ main = do
         (\x -> putStrLn $ "inverserBinaire " ++ show x ++ " -> " ++ inverserBinaire x)
         [2..11]
 {-^ Output:
-    inverserBinaire 2 -> 01
-    inverserBinaire 3 -> 11
-    inverserBinaire 4 -> 001
-    inverserBinaire 5 -> 101
-    inverserBinaire 6 -> 011
-    inverserBinaire 7 -> 111
-    inverserBinaire 8 -> 0001
-    inverserBinaire 9 -> 1001
+    inverserBinaire 2  -> 01
+    inverserBinaire 3  -> 11
+    inverserBinaire 4  -> 001
+    inverserBinaire 5  -> 101
+    inverserBinaire 6  -> 011
+    inverserBinaire 7  -> 111
+    inverserBinaire 8  -> 0001
+    inverserBinaire 9  -> 1001
     inverserBinaire 10 -> 0101
     inverserBinaire 11 -> 1101
 -}

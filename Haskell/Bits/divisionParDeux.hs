@@ -18,10 +18,10 @@ main = do
         (\x -> putStrLn $ "divisionParDeux " ++ show x ++ " -> " ++ show (divisionParDeux x))
         [x*2 | x <- [1..10]]
 {-^ Output:
-    divisionParDeux 2 = 1
-    divisionParDeux 4 = 2
-    divisionParDeux 6 = 3
-    divisionParDeux 8 = 4
+    divisionParDeux 2  = 1
+    divisionParDeux 4  = 2
+    divisionParDeux 6  = 3
+    divisionParDeux 8  = 4
     divisionParDeux 10 = 5
     divisionParDeux 12 = 6
     divisionParDeux 14 = 7
