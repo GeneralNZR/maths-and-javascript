@@ -18,7 +18,7 @@ longueurBit n = 1 + longueurBit (shiftR n 1)
 main :: IO ()
 main = do
     mapM_ (
-        (\x -> putStrLn $ "longueurBit " ++ show x ++ " -> " ++ show (longueurBit x)) . (2^))
+        (\n -> putStrLn $ "longueurBit " ++ show n ++ " -> " ++ show (longueurBit n)) . (2^))
         [0..9]
 {-^ Output:
     longueurBit 1   -> 1
