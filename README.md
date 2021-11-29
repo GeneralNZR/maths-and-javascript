@@ -30,7 +30,7 @@ It is regularly updated.<br><br>
     * getBit - [JS](JavaScript/Bits/getBit.js) / [Python](Python/Bits/get_bit.py) / [Haskell](Haskell/Bits/getBit.hs)
     * inverserBinaire - [JS](JavaScript/Bits/inverserBinaire.js) / [Python](Python/Bits/inverser_binaire.py) / [Haskell](Haskell/Bits/inverserBinaire.hs)
     * longueurBit - [JS](JavaScript/Bits/longueurBit.js) / [Python](Python/Bits/longueur_bit.py) / [Haskell](Haskell/Bits/longueurBit.hs)
-    * multiplicationParDeux - [JS](JavaScript/Bits/multiplicationParDeux.js) / [Python](Python/Bits/multiplication_par_deux.py)
+    * multiplicationParDeux - [JS](JavaScript/Bits/multiplicationParDeux.js) / [Python](Python/Bits/multiplication_par_deux.py) / [Haskell](Haskell/Bits/multiplicationParDeux.hs)
     * permutationXOR - [JS](JavaScript/Bits/permutationXOR.js) / [Python](Python/Bits/permutation_XOR.py)
     * puissanceDeDeux - [JS](JavaScript/Bits/puissanceDeDeux.js) / [Python](Python/Bits/puissance_de_Deux.py)
     * sommeConsecutive - [JS](JavaScript/Bits/sommeConsecutive.js) / [Python](Python/Bits/somme_consecutive.py)
