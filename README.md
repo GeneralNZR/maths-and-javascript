@@ -2,12 +2,12 @@
 
 _FR:_ 
 
-Ce repo a pour but de partager des exemples de fonctions liées à des concepts mathématiques écrits en javascript.
+Ce repo a pour but de partager des exemples de fonctions liées à des concepts mathématiques écrits en JavaScript, Python, C++, Haskell.
 Il est régulièrement mis à jour.
 
 _EN:_
 
-This repo aims to share examples of functions related to mathematical concepts written in javascript.
+This repo aims to share examples of functions related to mathematical concepts written in JavaScript, Python, C++, Haskell.
 It is regularly updated.<br><br>
 
    ## Thèmes
