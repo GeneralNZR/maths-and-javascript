@@ -8,9 +8,6 @@ func estPair(n int) bool {
 }
 
 func main() {
-	Println(estPair(6))
-	Println(estPair(11))
+	Println(estPair(6))  //true
+	Println(estPair(11)) //false
 }
-
-//Output: true
-//		  false

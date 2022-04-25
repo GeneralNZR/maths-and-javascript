@@ -8,9 +8,6 @@ func estPositif(n int) bool {
 }
 
 func main() {
-	Println(estPositif(1))
-	Println(estPositif(-1))
+	Println(estPositif(1))  //true
+	Println(estPositif(-1)) //false
 }
-
-//Output: true
-//		  false
