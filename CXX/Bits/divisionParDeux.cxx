@@ -10,7 +10,6 @@
  * @return int - Nombre divisé par deux.
  */
 void divisionParDeux(int n)
-
 {
     std::cout << n << " >> 1 = " << (n >> 1) << std::endl;
 }
