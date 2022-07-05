@@ -32,7 +32,7 @@ It is regularly updated.<br><br>
     * longueurBit - [JS](JavaScript/Bits/longueurBit.js) / [Python](Python/Bits/longueur_bit.py) / [Haskell](Haskell/Bits/longueurBit.hs) / [Go](Go/Bits/longueurBit.go)
     * multiplicationParDeux - [JS](JavaScript/Bits/multiplicationParDeux.js) / [Python](Python/Bits/multiplication_par_deux.py) / [Haskell](Haskell/Bits/multiplicationParDeux.hs) / [Go](Go/Bits/multiplicationParDeux.go)
     * permutationXOR - [JS](JavaScript/Bits/permutationXOR.js) / [Python](Python/Bits/permutation_XOR.py) / [Haskell](Haskell/Bits/permutationXor.hs)
-    * puissanceDeDeux - [JS](JavaScript/Bits/puissanceDeDeux.js) / [Python](Python/Bits/puissance_de_Deux.py) / [Haskell](Haskell/Bits/puissanceDeDeux.hs)
+    * puissanceDeDeux - [JS](JavaScript/Bits/puissanceDeDeux.js) / [Python](Python/Bits/puissance_de_Deux.py) / [Haskell](Haskell/Bits/puissanceDeDeux.hs) / [Go](Go/Bits/puissanceDeDeux.go)
     * sommeConsecutive - [JS](JavaScript/Bits/sommeConsecutive.js) / [Python](Python/Bits/somme_consecutive.py) / [Haskell](Haskell/Bits/sommeConsecutive.hs)
     <br><br>
     
