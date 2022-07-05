@@ -19,10 +19,10 @@ func main() {
 }
 
 //Output:
-// Σ digits of 1 				   = 1
-// Σ digits of 11 				   = 2
-// Σ digits of 111  			   = 3
-// Σ digits of 55 				   = 10
-// Σ digits of 8219 			   = 20
-// Σ digits of 999999999999999999  = 162
+// Σ digits of 1 = 1
+// Σ digits of 11 = 2
+// Σ digits of 111 = 3
+// Σ digits of 55 = 10
+// Σ digits of 8219 = 20
+// Σ digits of 999999999999999999 = 162
 // Σ digits of 9223372036854775807 = 88
