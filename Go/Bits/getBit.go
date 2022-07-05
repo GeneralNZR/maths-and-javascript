@@ -1,6 +1,6 @@
 package main
 
-import . "fmt"
+import "fmt"
 
 //Récupère le i-ème bit de n.
 func getBit(n, i int) int {
@@ -8,6 +8,6 @@ func getBit(n, i int) int {
 }
 
 func main() {
-	Println(getBit(2, 0)) //0
-	Println(getBit(2, 1)) //1
+	fmt.Println(getBit(2, 0)) //0
+	fmt.Println(getBit(2, 1)) //1
 }

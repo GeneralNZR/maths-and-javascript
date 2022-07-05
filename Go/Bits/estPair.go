@@ -1,6 +1,6 @@
 package main
 
-import . "fmt"
+import "fmt"
 
 //Vérifie si un nombre est pair.
 func estPair(n int) bool {
@@ -8,6 +8,6 @@ func estPair(n int) bool {
 }
 
 func main() {
-	Println(estPair(6))  //true
-	Println(estPair(11)) //false
+	fmt.Println(estPair(6))  //true
+	fmt.Println(estPair(11)) //false
 }

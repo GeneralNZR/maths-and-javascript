@@ -1,6 +1,6 @@
 package main
 
-import . "fmt"
+import "fmt"
 
 //Vérifie si un nombre est positif.
 func estPositif(n int) bool {
@@ -8,6 +8,6 @@ func estPositif(n int) bool {
 }
 
 func main() {
-	Println(estPositif(1))  //true
-	Println(estPositif(-1)) //false
+	fmt.Println(estPositif(1))  //true
+	fmt.Println(estPositif(-1)) //false
 }
